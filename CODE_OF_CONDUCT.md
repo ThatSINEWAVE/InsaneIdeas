@@ -1,6 +1,6 @@
 <div align="center">
 
-# Code of Conduct - IdeaForger
+# Code of Conduct - InsaneIdeas
 
 </div>
 
