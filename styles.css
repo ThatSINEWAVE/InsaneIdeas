@@ -1,0 +1,133 @@
+/* Reset some default browser styles for a clean slate */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  padding: 40px 20px;
+  background-color: #ffffff;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #000;
+  margin-bottom: 20px;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#description {
+  font-size: 1.2em;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 12px 25px;
+  font-size: 1.1em;
+  background-color: #6614c9;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #2674fc;
+  color: fff;
+  transform: translateY(-3px);
+}
+
+.inspireBtn {
+  color: fff;
+}
+
+.AnotherBtn {
+  color: fff;
+}
+
+#ideaText {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #000;
+  transition: opacity 0.3s;
+}
+
+/* Additional styling for better responsiveness */
+@media (max-width: 768px) {
+  .container {
+    padding: 30px 15px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  button {
+    font-size: 1em;
+    padding: 10px 20px;
+  }
+
+  #ideaText {
+    font-size: 1.3em;
+  }
+}
+
+/* Adding a background gradient to the body */
+body {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+}
+
+/* Making the idea text more vibrant */
+#ideaText {
+  background: linear-gradient(135deg, #43e97b, #38f9d7);
+  -webkit-text-fill-color: #000;
+  -webkit-background-clip: text;
+}
+
+/* Footer */
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	background: transparent;
+}
+
+footer a {
+	margin: 0 15px;
+	display: inline-block;
+	font-size: 20px;
+	color: #000;
+}
