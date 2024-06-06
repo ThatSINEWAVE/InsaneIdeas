@@ -2,8 +2,8 @@
 
 # [InsaneIdeas](https://thatsinewave.github.io/InsaneIdeas)
 
-IdeaForger is a simple yet powerful web application designed to spark creativity and innovation. 
-Whether you're a writer looking for a plot twist, an artist searching for inspiration, or an entrepreneur brainstorming your next big idea, IdeaForger has got you covered.
+InsaneIdeas is a simple yet powerful web application designed to spark creativity and innovation. 
+Whether you're a writer looking for a plot twist, an artist searching for inspiration, or an entrepreneur brainstorming your next big idea, InsaneIdeas has got you covered.
 
 ![InsaneIdeas](https://github.com/ThatSINEWAVE/IdeaForger/assets/133239148/3b986e0a-6dc5-4c6f-b1ea-fc2a347dc9dd)
 
@@ -22,7 +22,7 @@ Whether you're a writer looking for a plot twist, an artist searching for inspir
 
 ## How it Works
 
-IdeaForger utilizes a clever algorithm to combine random concepts, providing you with fresh and innovative ideas every time.
+InsaneIdeas utilizes a clever algorithm to combine random concepts, providing you with fresh and innovative ideas every time.
 The fetched ideas are displayed in a clean and intuitive interface, allowing you to focus on what matters most – your creativity.
 
 ## Contributing
