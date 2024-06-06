@@ -11,7 +11,7 @@ Whether you're a writer looking for a plot twist, an artist searching for inspir
 
 ## Features
 
-- **Idea Generation**: With just a click of a button, IdeaForger generates unique and creative ideas tailored to your needs.
+- **Idea Generation**: With just a click of a button, InsaneIdeas generates unique and creative ideas tailored to your needs.
 - **Theme Toggle**: Choose between light and dark themes to suit your preference and work environment.
 
 <div align="center">
