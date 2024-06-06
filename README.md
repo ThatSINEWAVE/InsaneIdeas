@@ -5,7 +5,7 @@
 IdeaForger is a simple yet powerful web application designed to spark creativity and innovation. 
 Whether you're a writer looking for a plot twist, an artist searching for inspiration, or an entrepreneur brainstorming your next big idea, IdeaForger has got you covered.
 
-![IdeaForger](https://github.com/ThatSINEWAVE/IdeaForger/assets/133239148/65093664-f69e-48f0-a25f-94479b548986)
+![InsaneIdeas](https://github.com/ThatSINEWAVE/IdeaForger/assets/133239148/3b986e0a-6dc5-4c6f-b1ea-fc2a347dc9dd)
 
 </div>
 
