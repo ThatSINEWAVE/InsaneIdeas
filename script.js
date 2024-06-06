@@ -3,7 +3,7 @@ const anotherBtn = document.getElementById('anotherBtn');
 const descriptionEl = document.getElementById('description');
 const ideaTextEl = document.getElementById('ideaText');
 
-const apiUrl = 'https://cors-anywhere.herokuapp.com/https://itsthisforthat.com/api.php?json';
+const apiUrl = 'https://itsthisforthat.com/api.php?json';
 
 inspireBtn.addEventListener('click', getIdea);
 anotherBtn.addEventListener('click', getIdea);
