@@ -1,6 +1,6 @@
 <div align="center">
 
-# [IdeaForger](https://thatsinewave.github.io/IdeaForger)
+# [IdeaForger](https://thatsinewave.github.io/InsaneIdeas)
 
 IdeaForger is a simple yet powerful web application designed to spark creativity and innovation. 
 Whether you're a writer looking for a plot twist, an artist searching for inspiration, or an entrepreneur brainstorming your next big idea, IdeaForger has got you covered.
