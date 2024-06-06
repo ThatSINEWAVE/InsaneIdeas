@@ -13,10 +13,17 @@ function getIdea() {
   inspireBtn.style.display = 'none';
   anotherBtn.style.display = 'block';
 
-  fetch(apiUrl)
-    .then(response => response.json())
+  fetch('https://itsthisforthat.com/api.php?json', { mode: 'no-cors' })
+    .then(response => {
+      if (response.ok) {
+        return response.text();
+      } else {
+        throw new Error('Request failed with status: ' + response.status);
+      }
+    })
     .then(data => {
-      const { this: thisValue, that: thatValue } = data;
+      const parsedData = JSON.parse(data);
+      const { this: thisValue, that: thatValue } = parsedData;
       ideaTextEl.textContent = `You should make a ${thisValue} that will be used for ${thatValue}.`;
     })
     .catch(error => {
