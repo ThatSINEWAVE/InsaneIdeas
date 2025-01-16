@@ -124,4 +124,9 @@ footer a {
   display: inline-block;
   font-size: 20px;
   color: #000;
+  transition: transform 0.3s;
+}
+
+footer a:hover {
+  transform: scale(1.3);
 }
