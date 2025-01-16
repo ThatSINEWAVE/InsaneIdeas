@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: min(600px, 80vw);
   width: 100%;
   padding: 40px 20px;
   background-color: #ffffff;
@@ -78,6 +78,7 @@ button:hover {
 /* Additional styling for better responsiveness */
 @media (max-width: 768px) {
   .container {
+    /* max-width: 80vw; */
     padding: 30px 15px;
   }
 
