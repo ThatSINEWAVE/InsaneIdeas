@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   background: linear-gradient(135deg, #6a11cb, #2575fc);
   display: flex;
@@ -62,16 +62,7 @@ button {
 
 button:hover {
   background-color: #2674fc;
-  color: fff;
   transform: translateY(-3px);
-}
-
-.inspireBtn {
-  color: fff;
-}
-
-.AnotherBtn {
-  color: fff;
 }
 
 #ideaText {
@@ -117,17 +108,17 @@ body {
 
 /* Footer */
 footer {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	text-align: center;
-	padding: 10px;
-	background: transparent;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  background: transparent;
 }
 
 footer a {
-	margin: 0 15px;
-	display: inline-block;
-	font-size: 20px;
-	color: #000;
+  margin: 0 15px;
+  display: inline-block;
+  font-size: 20px;
+  color: #000;
 }
