@@ -30,7 +30,7 @@ If you'd like to contribute to this project, please fork the repository and crea
 
 <div align="center">
 
-## [Join my discord server](https://discord.gg/2nHHHBWNDw)
+## [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
